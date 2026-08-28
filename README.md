@@ -72,20 +72,16 @@ Fiber optic links can be used for transmission of both digital and analog signal
 
 ## TABULATION
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain (dB) |
-|----------------|-------------------------------|--------------|-----------|
-|                |                               |              |           |
-|                |                               |              |           |
+<img width="1600" height="1567" alt="image" src="https://github.com/user-attachments/assets/36eac741-3bb2-48d5-bfb6-e0b4bde421d8" />
+
 
 ---
 
 ## MODEL GRAPH
-*(Attach plotted graph of Gain vs Frequency here)*
+<img width="957" height="868" alt="image" src="https://github.com/user-attachments/assets/edf84665-d454-4c24-8c97-8ec9aa7b2fa8" />
 
 ---
 
 ## RESULT
 The digital signal was successfully transmitted through **660nm and 950nm fiber optic links** and reproduced at the receiver end.  
 The maximum bit rate of the digital link was determined experimentally.
-
-
